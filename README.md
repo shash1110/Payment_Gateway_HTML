@@ -8,7 +8,8 @@ Payment gateways are virtual terminals equivalent to a physical point-of-sale te
 
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwoocommerce.com%2Fproducts%2Frazorpay-for-woocommerce%2F&psig=AOvVaw2Y2LGp2NSVy_3mn-mheBu7&ust=1644719943058000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjXsbSR-fUCFQAAAAAdAAAAABAD
+![image](https://user-images.githubusercontent.com/83292249/153693795-daa0ecd2-a2d5-4bb2-882c-6714c182ab73.png)
+
 
 
 Razorpay's Payment Gateway is a system designed to handle end-to-end payments.Razorpay's Payment Gateway supports the most extensive set of payment modes.
